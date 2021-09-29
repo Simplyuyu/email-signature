@@ -1,0 +1,17 @@
+#contact {
+  background: #ad6AAFF;
+  color: rgba(235, 134, 221, 0.87);
+  float: left;
+  border-left: 5pt solid #c9a6c0;
+  padding: 0em;
+}
+
+div p {
+  color: rgb(170, 96, 145);
+  margin: 1.5em;
+}
+
+p {
+  margin: 0.5px;
+}
+\
